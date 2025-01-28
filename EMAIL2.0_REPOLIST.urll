@@ -2,9 +2,13 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: EMAIL2.0_REPOLIST.urll
 //// URL list for EMAIL 2.0 repositories
-//// 62 total repository links (as of 2023, Saturday, Septemnber 2nd at 01:38 pm PST), Version 1
+//// As of 2025, Monday, January 27th
 
-//// GitHub (62)
+//// ----------------------------------------------------- \\\\
+//// EMAIL 2.0 Project (66)
+//// ----------------------------------------------------- \\\\
+
+//// GitHub (66)
 
 https://github.com/seanpm2001/EMAIL_2.0_WG_Standardization
 https://github.com/seanpm2001/EMAIL_2.0_WG_Documentation
@@ -68,11 +72,68 @@ https://github.com/seanpm2001/DMAIL_StampCollection
 https://github.com/seanpm2001/DMAIL_StampCollection_Docs
 https://github.com/seanpm2001/DMAIL_MailManager
 https://github.com/seanpm2001/DMAIL_MailManager_Docs
+https://github.com/seanpm2001/EMAIL2_ClassicEMail
+https://github.com/seanpm2001/EMAIL2_ClassicEMail_Docs
+https://github.com/seanpm2001/EMAIL2_Filters_Sieve
+https://github.com/seanpm2001/EMAIL2_Filters_Sieve_Docs
 
 //// GitLab (0)
 
-//// File info
-//// File version: 1 (2023, Saturday, September 2nd at 01:38 pm PST)
-//// Line count (including blank lines and compiler line): 79
+//// Nothing yet
 
-//// End of file (EOF)
+//// ----------------------------------------------------- \\\\
+//// Repo count (EMAIL 2): 66
+//// 66+0=66
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (8)
+
+//// Dmail (1)
+
+https://github.com/seanpm2001/DMail
+
+//// SNU 2D Dmail (1)
+
+https://github.com/seanpm2001/SNU_2D_DMailClient
+
+//// DSuite (1)
+
+https://github.com/seanpm2001/DSuite
+
+//// DCalendar (1)
+
+https://github.com/seanpm2001/DCalendar
+
+//// TackleBox Email Component (1)
+
+https://github.com/seanpm2001/TackleBox_Email_Component
+
+//// SpamBox Email Component (1)
+
+https://github.com/seanpm2001/SpamBox_Email_Component
+
+//// EMAIL -3.0 (1)
+
+https://github.com/seanpm2001/EMAIL_-3.0
+
+//// MailOS (1)
+
+https://github.com/seanpm2001/MailOS
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 8
+//// 1+1+1+1+1+1+1+1=8
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 74
+//// 66+8=74
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 2 (2025, Monday, January 27th at 06:56 pm PST)
+//// Line count (including blank lines and compiler line): 140
+//// ----------------------------------------------------- \\\\
+
+//// End of file
